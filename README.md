@@ -20,7 +20,7 @@ O projeto faz com que vários tipos de dados traga um resultado de acordo com su
 
 ## 🏁 Como começar
 
-1. Entre no site: https://luizadealencar.github.io/index.html
+1. Entre no site: https://luizadealencar.github.io/Roll_the_dice/index.html
 1. Clique em qualquer tipo de dado, que ele trará o resultado conforme o solicitado.
 
 <span align="center">
